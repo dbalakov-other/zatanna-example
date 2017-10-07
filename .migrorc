@@ -1,0 +1,11 @@
+{
+  "database": {
+    "main": {
+        "driver": "pg",
+        "user": "postgres",
+        "password": "lfk11kos",
+        "host": "localhost",
+        "database": "zatanna-example"
+    }
+  }
+}

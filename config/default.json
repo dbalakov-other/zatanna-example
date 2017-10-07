@@ -1,0 +1,3 @@
+{
+  "db": "postgres://postgres:lfk11kos@localhost:5432/zatanna-example"
+}
